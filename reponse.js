@@ -20904,4 +20904,8 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/user-104839658/go-park-pokemon-lets-go-ost",
     answer: 5976,
   },
+  {
+    url: "https://soundcloud.com/persona3ost/its-going-down-now-persona-3-reload-ost",
+    answer: 10000,
+  },
 ];
