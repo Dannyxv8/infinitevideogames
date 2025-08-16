@@ -70,29 +70,8 @@ var app = (function () {
   };
 
   const howToPlayT = { fr: "Comment jouer", en: "how to play" };
-  const howToPlayPopup1T = {
-    fr: "Écoutez l'intro, puis trouvez la bonne musique dans la liste",
-    en:
-      "Listen to the intro, then find the correct " +
-      artist +
-      " song in the list",
-  };
-  const howToPlayPopup2T = {
-    fr: "Les tentatives passées ou incorrectes débloquent une plus grande partie de l'intro.",
-    en: "Skipped or incorrect attempts unlock more of the intro",
-  };
-  const howToPlayPopup3T = {
-    fr: "Répondez en aussi peu d'essais que possible et partagez votre score !",
-    en: "Answer in as few tries as possible and share your score!",
-  };
-  const howToPlayPopup4T = {
-    fr: "Sélectionez les jeux sur lesquels vous voulez jouer.",
-    en: "Select the game you want to play with.",
-  };
-  const howToPlayPopup5T = {
-    fr: "Vous pouvez voir la liste des musiques en cliquant sur le bouton en haut à droite.",
-    en: "You can use the top right button to see the list of tracks.",
-  };
+  <img src="GOONING.png" alt="Example image">
+
   const playT = { fr: "Jouer", en: "Play" };
   const playedT = { fr: "Jouée", en: "Played" };
   const wonT = { fr: "Trouvée", en: "Won" };
