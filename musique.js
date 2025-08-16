@@ -26127,4 +26127,8 @@ window.musicNameList = [
     en: "Goha City Area Theme - Yu Gi Oh Rush Duel : Dawn of the Battle Royale!",
     fr: "Thème de la Ville de Goha - Yu Gi Oh Rush Duel : Dawn of the Battle Royale!",
   },
+  {
+    id: 10000,
+    en: "30. It’s Going Down Now - Persona 3 Reload OST",
+  },
 ];
