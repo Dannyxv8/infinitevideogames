@@ -26128,8 +26128,13 @@ window.musicNameList = [
     fr: "Thème de la Ville de Goha - Yu Gi Oh Rush Duel : Dawn of the Battle Royale!",
   },
   {
-    id: 10000,
+    id: 5977,
     en: "It’s Going Down Now - Persona 3 Reload",
     fr: "It’s Going Down Now - Persona 3 Reload",
+  },
+  {
+    id: 5978,
+    en: "Deep Breath Deep Breath Reincarnation Reload - Persona 3 Reload",
+    fr: "Deep Breath Deep Breath Reincarnation Reload - Persona 3 Reload",
   },
 ];
