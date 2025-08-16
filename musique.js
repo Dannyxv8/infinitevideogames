@@ -26129,6 +26129,7 @@ window.musicNameList = [
   },
   {
     id: 10000,
-    en: "30. It’s Going Down Now - Persona 3 Reload OST",
+    en: "It’s Going Down Now - Persona 3 Reload",
+    fr: "It’s Going Down Now - Persona 3 Reload",
   },
 ];
