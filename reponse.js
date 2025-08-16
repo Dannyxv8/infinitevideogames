@@ -20908,4 +20908,8 @@ window.musicListWithLinks = [
     url: "https://soundcloud.com/persona3ost/its-going-down-now-persona-3-reload-ost",
     answer: 5977,
   },
+  {
+    url: "https://soundcloud.com/persona3ost/deep-breath-deep-breath-reincarnation-reload-persona-3-reload-ost?si=f39f5d6f9030441f9bbd4c75876d2426&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+    answer: 5978,
+  },
 ];
