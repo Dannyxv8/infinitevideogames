@@ -70,26 +70,25 @@ var app = (function () {
   };
 
   const howToPlayT = { fr: "Comment jouer", en: "how to play" };
-  <img src="GOONING.png" alt="Example image">
-    const howToPlayPopup1T = {
-    fr: "",
-    en: "",
+  const howToPlayPopup1T = {
+    fr: " ",
+    en: " ",
   };
   const howToPlayPopup2T = {
-    fr: "",
-    en: "",
+    fr: " ",
+    en: " ",
   };
   const howToPlayPopup3T = {
-    fr: "",
-    en: "",
+    fr: " ",
+    en: " ",
   };
   const howToPlayPopup4T = {
-    fr: "",
-    en: "",
+    fr: " ",
+    en: " ",
   };
   const howToPlayPopup5T = {
-    fr: "",
-    en: "",
+    fr: " ",
+    en: " ",
   };
 
   const playT = { fr: "Jouer", en: "Play" };
