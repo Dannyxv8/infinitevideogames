@@ -70,6 +70,7 @@ var app = (function () {
   };
 
   const howToPlayT = { fr: "Comment jouer", en: "how to play" };
+  GOONING.png
   const howToPlayPopup1T = {
     fr: " ",
     en: " ",
