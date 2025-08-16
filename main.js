@@ -71,6 +71,7 @@ var app = (function () {
 
   const howToPlayT = { fr: "Comment jouer", en: "how to play" };
   GOONING.png
+  <img src="GOONING.png" alt="My picture" width="300">
   const howToPlayPopup1T = {
     fr: " ",
     en: " ",
