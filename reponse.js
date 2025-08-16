@@ -20906,6 +20906,6 @@ window.musicListWithLinks = [
   },
   {
     url: "https://soundcloud.com/persona3ost/its-going-down-now-persona-3-reload-ost",
-    answer: 10000,
+    answer: 5977,
   },
 ];
