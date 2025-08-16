@@ -48,7 +48,7 @@ var app = (function () {
     en:
       '<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a>, and <a href="https://heardle-kpop.glitch.me/" title="K-Pop Heardle">K-Pop Heardle</a> which can be played infinitely and with ' +
       artist +
-      '\' musics. Based on <a href="https://joywave-heardle.glitch.me/" title="Joywave Heardle">Joywave Heardle</a> code and from <a href="https://ninjigalaxy.github.io/mario-heardle-infinite/" title="Mario Heardle Infinite">@NinjiGalaxy</a> (for the better volume slider) and <a href="https://nterrien.github.io/pkmn-infinite-heardle/" title="Pokémon Infinite Heardle">Pokémon Infinite Heardle</a> musics edited.</p><p class="mb-3">Each music is randomly chosen from mainline ' +
+      '\' musics. Completely based off <a href="https://keraloon.github.io/infinitevideogame/" title="Keraloons Infinite Heardle">Keraloons Infinite Heardle</a> code! Each music is randomly chosen from mainline ' +
       artist +
       '\' soundtrack.</p><p class="mb-3">Songs are listed along with the name of the games they are featured in.</p><p class="mb-3">Streamers, some musics are copyright claimed.</p><p class="mb-3">Want to make your own Heardle? Check out the <a href="https://github.com/nterrien/pkmn-infinite-heardle/blob/master/README.md">README</a>.</p>',
   };
@@ -62,7 +62,7 @@ var app = (function () {
       musicListWithLinks.length +
       "</p>",
     en:
-      '<p class="mb-3">You can also play <a href="https://keraloon.github.io/infinitevideogame/index.html" title="Games Heardle">Games Heardle</a> daily!</p><p class="mb-3">If you think a music or a game should be here, a title is wrong, or something is weird, let me know on <a href="https://twitter.com/Keraloon/" title="@Keraloon">Twitter</a> or <a href="https://bsky.app/profile/keraloon.bsky.social" title="@Keraloon">Bluesky!</a></p><p class="mb-3">You can look at the Changelog <a href="https://docs.google.com/spreadsheets/d/1OvNR46OelBmRpIpJSVvbYPl9g8ltCBzMJf32RTYyZ0g/edit?usp=sharing" title="Changelog">here!</a></p><p class="mb-3">Number of songs available: ' +
+      'Number of songs available: ' +
       filteredMusicListWithLinks.length +
       "/" +
       musicListWithLinks.length +
